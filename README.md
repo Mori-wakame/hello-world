@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 ddddd
 git status
+
 :::note info
 インフォメーション
 infoは省略可能です。
@@ -16,6 +17,7 @@ infoは省略可能です。
 より強い警告
 ○○しないでください。
 :::
+
 =======
 eee
 *fffff*
