@@ -5,4 +5,10 @@ git status
 - aaaaa
 - bbbbb
 [https://github.com/Mori-wakame/hello-world]
-```aaa```
+```ruby :qiita.rb
+aaa
+```
+```_ruby
+- puts "Hello"
++ puts "World"
+```
