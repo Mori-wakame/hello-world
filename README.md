@@ -36,4 +36,6 @@ aaa
 puts "Hello, World"
 ```
 </details>
->>>>>>> da2caf41731e79b76993b9341f7c1cf72a922c53
+1\. あ
+2\. い
+3\. う
