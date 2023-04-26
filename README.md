@@ -12,3 +12,9 @@ aaa
 - puts "Hello"
 + puts "World"
 ```
+<details><summary>aaa</summary>
+
+```rbs
+puts "Hello, World"
+```
+</details>
