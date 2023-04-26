@@ -1,4 +1,5 @@
 # hello-world
+<<<<<<< HEAD
 ddddd
 git status
 :::note info
@@ -15,3 +16,24 @@ infoは省略可能です。
 より強い警告
 ○○しないでください。
 :::
+=======
+eee
+*fffff*
+**git status**
+- aaaaa
+- bbbbb
+[https://github.com/Mori-wakame/hello-world]
+```ruby :qiita.rb
+aaa
+```
+```_ruby
+- puts "Hello"
++ puts "World"
+```
+<details><summary>aaa</summary>
+
+```rbs
+puts "Hello, World"
+```
+</details>
+>>>>>>> da2caf41731e79b76993b9341f7c1cf72a922c53
