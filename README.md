@@ -22,7 +22,7 @@ eee
 **git status**
 - aaaaa
 - bbbbb
-[https://github.com/Mori-wakame/hello-world]
+[Github](https://github.com/Mori-wakame/hello-world)
 ```ruby :qiita.rb
 aaa
 ```
